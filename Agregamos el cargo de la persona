@@ -1,0 +1,25 @@
+[33mcommit 9ff699012359186fdb6cbbf955aad5ddd7f3ce6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mateo Montoya <mateomh48@gmail.com>
+Date:   Tue Mar 23 18:52:13 2021 -0500
+
+    Agregamos el cargo de la persona
+    
+    La persona es Freddy
+
+[33mcommit 68589fd3a528308e994d595b639233c27fcc73e8[m
+Author: Mateo Montoya <mateomh48@gmail.com>
+Date:   Tue Mar 23 18:49:39 2021 -0500
+
+    Agregamos un cambio a su estatura
+
+[33mcommit 33b6c1d0796604cf5286341255dc47ee3a97f235[m
+Author: Mateo Montoya <mateomh48@gmail.com>
+Date:   Sun Mar 21 22:03:47 2021 -0500
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit 035e5f35881135063c490a6ec5060721d7958f8c[m
+Author: Mateo Montoya <mateomh48@gmail.com>
+Date:   Sun Mar 21 22:00:49 2021 -0500
+
+    Este es el primer commit de este archivo
